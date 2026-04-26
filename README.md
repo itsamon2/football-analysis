@@ -124,7 +124,7 @@ jupyter notebook
 
 ## Author
 
-[Your Name]  
-[Your Student ID]  
-[Course Name]  
+[Amon Aiyabei Sawe]  
+[S13/02934/23]  
+[Comp 334]  
 April 2025
